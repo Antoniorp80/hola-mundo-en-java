@@ -15,11 +15,15 @@ Para compilar el ficher holamundo ejecutamos las siguientes lineas de comando
 Para compilar el fichero holamundo ejecutamos:
 
 
-
-## enlaces
 ejecuta `holamundo.java` y a ver
 
 ```console
 javac holamundo.java
 ```
 con **f5** y **f8**
+
+## enlaces
+*[aprende java] (https://leanpub.com/aprendejava)
+*[git y github - Guía de supervivencia] (https://leanpub.com/gitygithub/)
+
+Si te ha gustado marca una estrella :star:
