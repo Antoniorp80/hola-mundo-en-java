@@ -23,7 +23,8 @@ javac holamundo.java
 con **f5** y **f8**
 
 ## enlaces
-*[aprende java] (https://leanpub.com/aprendejava)
-*[git y github - Guía de supervivencia] (https://leanpub.com/gitygithub/)
+* [aprende java] (https://leanpub.com/aprendejava)
+
+* [git y github - Guía de supervivencia] (https://leanpub.com/gitygithub/)
 
 Si te ha gustado marca una estrella :star:
