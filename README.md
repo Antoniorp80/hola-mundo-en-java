@@ -1,2 +1,2 @@
-# hola-mundo-en-java
-Programa que muestra un "hola mundo" en pantalla
+# "hola mundo" en java
+repositorio para manejar github y aprender java
